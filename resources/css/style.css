@@ -8,5 +8,28 @@ body {
 h1 {
   font-size: 70px;
   font-weight: bold;
-  
+}
+.white {
+  color: white;
+}
+a {
+  font-size: 18px;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+.foot {
+  background-color: dimgray;
+  text-align: left;
+}
+.copy {
+  font-size: 11px;
 }
